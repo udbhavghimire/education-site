@@ -13,10 +13,25 @@
 }
 .nav-link {
   color: black !important;
-  font-weight: 600;
+  font-weight: 500;
 }
 .navbar-toggler {
   color: black !important;
   border: none !important;
   padding: 0 !important;
+}
+.searchform {
+  border-radius: 0;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+}
+.navbar-brand {
+  font-weight: 800;
+}
+.search-btn {
+  background-color: #d43922;
+  color: white;
+  border-radius: 0;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
 }
